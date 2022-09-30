@@ -1,2 +1,2 @@
 # BLOG
-blog based on html&amp;css
+blog based on html&css
